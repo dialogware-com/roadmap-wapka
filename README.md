@@ -2,7 +2,7 @@
 
 ## More ...
 + [Oferta, Model Biznesowy](https://roadmap.wapka.pl/)
-+ [Technologie, Ekosystem](EKOSYSTEM.md)
++ [Technologie, Ekosystem](https://docs.wapka.pl/EKOSYSTEM.html)
 
 ## Softreck's OpenSource Deployment Ecosystem
 + [Softreck’s OpenSource Deployment Ecosystem](https://docs.wapka.pl/)
