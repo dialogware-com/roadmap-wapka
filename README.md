@@ -156,3 +156,11 @@ w pierwszym etapie
 na koncu
 + gitcast do promocji 
   + programisci w systemie
+
+
+---
++ [edit](https://github.com/wapka-pl/roadmap/edit/main/README.md)
+
+```
+https://github.com/wapka-pl/roadmap.git
+```
