@@ -9,6 +9,41 @@
 + [Softreck - Leadership Through Software Development](https://softreck.com/)
 + [Welcome to Portfolio of Softreck Company - softreck.dev](https://softreck.dev/)
 
+
+
+1. Całość rozwiązań, ekosystem w roboczej nazwie wapka (web-aplikacja), oferta, informace, aktualizacje, szkolenia
+
+https://roadmap.wapka.pl/
+
+*nazwa globalna: https://roadmap.modula.dev
+
+
+2. Biblioteka do hipermodularyzacji stron/aplikacji www
+
+https://roadmap.webstream.dev/
+
+
+3. Marketplace z gotowcami bazujące na bibliotece webstream, wersja SaaS eksperymentalna polska
+
+https://roadmap.application.pl
+
+*wersja globalna: https://roadmap.mvps.dev/
+
+
+
+4. Usługa SaaS dla Software House, wersja globalna
+
+https://roadmap.oneday.run/
+
+
+5. Usługa SaaS dla Kowalskich, wersja SaaS eksperymentalna polska
+
+https://roadmap.prototypowanie.pl/
+
+*wersja globalna: https://roadmap.webapks.com/
+
+
+
 # Model Biznesowy
 
 ## Rozwiązania
