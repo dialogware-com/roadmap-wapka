@@ -11,36 +11,69 @@
 
 
 
-1. Całość rozwiązań, ekosystem w roboczej nazwie wapka (web-aplikacja), oferta, informace, aktualizacje, szkolenia
 
-[Roadmap of wapka project - roadmap](https://roadmap.wapka.pl/)
+Dla jednych drzwi do internetu otwierają wyszukiwarki, dla innych media społecznościowe. W dobie IoT nie potrzebujemy ekranu i klawiatury, możemy po prostu mówić, rozmawiać jak z człowiekem.
+Technologie bazujące na sztucznej inteligencji pozwalają pominąć bezpośrednią interakcję na rzecz obserwacji i analizy zachowania.
+Komunikacja bez słów i gestów a jedynie wyciąganiu wniosków i reagowaniu stosownie do sytuacji i potrzeb użytkownika.
+W firmie Softreck budujemy rozwiązania na przyszłe dekady, dołącz do nas jako #programista, #inwestor, #ambasador
+Obecnie rozwijamy otwarty projekt Web Stream Dev do streamowania aplikacji przez www, w drodze są przygotowania do komercjalizacji prototypowania One Day Run
+
+Jako Software Deveoper z ponad 10 letnim stażem pracuję nad rozwiązaniami do optymalizacji procesu prototypowania.
+Doświadczenie podczas refaktoryzacji dały mi odpowiedź na to co najczęściej podelga zmianom i jak przygotwać kod aplikacji, aby nie był przemdiotem częstych zmian.
+Rezultatem jest kilka pryncypiów, którym warto być wiernym, aby uzyskać najlepszy efekt zaangażowanej energii i czasu do reużycia kodu.
+Wnioski są następujące:
+
+1. Hipermodularyzacja, czyli używanie jak najmniejszych modułów kodu, ściśle dla określonego środowiska w natywnym jezyku
+2. Definiowanie pojedynczych funkcji jako pojedynczego projektu w celu pozbycia się zależności od innych bibliotek
+3. Nie używanie frameworków i abstrakcji wprowadzających większą złożoność i wpływającą negatywnie na krzywą uczenia się
+4. Budowanie kodu na podstawie jak największej ilości już zdefiniowanej logiki, wkorzystanie już istniejących usług dostępnych przez np RestAPI
+5. Wykorzystanie dowolnej technologii dla której można zaoferować środowisko uruchomieniowe, zamiast tworzenia nowego rozwiązania w znanym języku programowania
+
+Te pryncypia są stosowane przy użyciu biblioteki WebStream oraz całego ekosystemu [wapka.pl](https://docs.wapka.pl/))
+W chwili obecnej kod jest ładowany w formie drzewa JSON z listą mediów jakie mają być załadowane
+więcej informacji tutaj:
+[docs.webstream.dev](https://docs.webstream.dev/#/)
+
+
+# Ekosystem
+
+Całość rozwiązań, ekosystem w roboczej nazwie wapka (web-aplikacja), oferta, informace, aktualizacje, szkolenia
+
+[Roadmap of wapka project - roadmap.wapka.pl](https://roadmap.wapka.pl/)
 
 *nazwa globalna: https://roadmap.modula.dev
 
 
-2. Biblioteka do hipermodularyzacji stron/aplikacji www
+# Biblioteka
 
-[docs.webstream.dev](https://roadmap.webstream.dev/#/)
+Biblioteka do hipermodularyzacji stron/aplikacji www
+
+[roadmap.webstream.dev](https://roadmap.webstream.dev/#/)
 
 
-3. Marketplace z gotowcami bazujące na bibliotece webstream, wersja SaaS eksperymentalna polska
+# Marketplace
 
-https://roadmap.application.pl
+Marketplace z gotowcami bazujące na bibliotece webstream, wersja SaaS eksperymentalna polska
+
+[roadmap.application.pl](https://roadmap.application.pl/#/)
 
 *wersja globalna: https://roadmap.mvps.dev/
 
 
-
+# SaaS - sofwtare house
 4. Usługa SaaS dla Software House, wersja globalna
 
-https://roadmap.oneday.run/
+[roadmap.oneday.run](https://roadmap.oneday.run/#/)
 
 
+
+# SaaS - dla każdego
 5. Usługa SaaS dla Kowalskich, wersja SaaS eksperymentalna polska
 
-https://roadmap.prototypowanie.pl/
+[roadmap.prototypowanie.pl](https://roadmap.prototypowanie.pl/#/)
 
 *wersja globalna: https://roadmap.webapks.com/
+
 
 
 
@@ -76,50 +109,6 @@ Dlatego liczne rozwiazania pozwalajace na skalowanie i szybki wzrost firmy jest 
 Tworząc ustandaryzowane kanały dostępu do usług i współpracy między nimi zapewniamy wiele korzyści dla każdej strony.
 W ten sposób możliwe jest tez znalezienie alternatywnego dostawcy i zapewnienie pełnego łancucha dostaw usług. 
 
-
-## Sprzedaż
-
-Model subskrypcji ze zmienną w ilości świadczonych godzin supportu
-możliwa przedpłata, wykupienie kilku godzin tygodniowo/miesięcznie/rocznie
-
-Klienci i Partnerzy będą pozyskiwaniu przy indywidualnych rozmowach.
-Wzrost będzie organiczny.
-Pozyskiwanie partnerów będzie w naturalny sposób zwiększało nasz udział w rynku.
-W ten sposób zbudujemy silną społeczność i usługa będzie miała warunki, by dojrzeć do aktualnych potrzeb klientów z branży.
-
-
-### Do 100 klientów/użytkowników końcowych
-Początkowy model biznesowy będzie przypominał software house tworzący oprogramowanie dedykowane w krótkoterminowych projektach.
-Deficyt specjalistów będzie blokował rozwój.
-Rentowność nie będzie wystarczająca, by uzyskać pełne pokrycie w personelu i model będzie odbiegał od docelowego.
-
-Na początku dystrybucji tego systemu będzie mniej niż 100 użytkowników i mniej niż kilkaset używanych aplikacji oraz ich małej ilości dostępnych w marketplace aPaaS
-
-Rozwiązaniem pozwalającym na rentowność będzie pośrednictwo w świadczeniu usług specjalistów 
-i to będzie najbardziej dochodowa część, która będzie pozwalała na inwestycję w reklamę oraz pozyskiwanie bezpośrednio poprzez donate 
-utalentowanych programistów tworzących ponadprzeciętne dedykowane rozwiązania
-
-
-### Do 1 000 klientów/użytkowników końcowych
-W skali 1 000 klientów osiągalna potencjalnie po kilkunastu miesiącach pozwoli na pokrycie kosztów kolejnych inwestycji 
-i rentowność na bardzo dobrym poziomie, zatrudnieniu więcej ilości ekpsertów supportu na pół etatu, gdyż lepiej jest zatrudniać w godzinach szczytu stałych pracowników, pozwalających
-na szybką reakcję, a mniejsze pokrycie poza godzinami pracy w obszrze europy.
-
-
-
-### Do 10 000 klientów/użytkowników końcowych
-Powiększajacac się ilość aplikacji i wielkosć infrastruktury pozwoli na większe możliwości ale i zagrożenia, dlatego będzie potrzebne wsparcie
-ekspertów d/s bezpieczeństwa, doradzającym naszym partnerom w kestii głębszej integracji zapobiegającej przyszłym problemom.
-To będzie również czas ekspansji na rynku globalne i pozyskiwanie ekspertów z krajów, gdzie praca jest mniej kosztowna
-
-
-### Ponad 10 000 klientów/użytkowników końcowych
- 
-Czas na obronę pozycji na rynku, szybszą ekspansję i pozyskiwanie nowych rynków, partnerów, klientów z różnych kultur.
-Zmniejszenie rentowności z uwagi na spore inwestycje.
-Z drugiej strony pozyskiwanie inwestorów.
-Core w Polsce/Europie pozostanie, jednak kolejne rynki będą już zdobywane w kooperacji.
-Infrastruktura będzie bardziej narażona na cyber ataki, klienci będą bardizej zróżnciowanie, co przyczyni się do wdrożenia personalizowanej oferty poprzez użycie AI.
 
 
 # Oferta
@@ -173,22 +162,32 @@ w pierwszym etapie
   + zespół
 
 
-+ www: deployment.pl
-  + opisy dla programistow
-  + button: deployment.pl
 
-+ www: subscription.pl
-  + oferta
-  + integracja oferty z foundation
-  + server: vps z foundation
-  
   
 + www: application.pl
   + lista aplikacji dodanych poprzez deployment
   + możliwości kliknięcia deployment
   
 
-na koncu
+## Ułatwienia integracji poprzez prostą autoryzację
++ www: subscription.pl
+  + oferta
+  + integracja oferty z ofertą/rozwiązaniami partnerów
+  + server: vps z foundation
+
+
+## Dystrybucja webstream
+
+poprzez usługi deploymentu, uruchamiania aplikacji:
+
++ www: deployment.pl
+  + opisy dla programistow
+  + button: deployment.pl
+
+
+## Budowanie społeczności opensource
+
+na koncu promowanie autorów opensource 
 + gitcast do promocji 
   + programisci w systemie
 
