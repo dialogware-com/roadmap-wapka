@@ -60,7 +60,7 @@ Marketplace z gotowcami bazujące na bibliotece webstream, wersja SaaS eksperyme
 *wersja globalna: https://roadmap.mvps.dev/
 
 
-# SaaS - sofwtare house
+# SaaS - software house
 4. Usługa SaaS dla Software House, wersja globalna
 
 [roadmap.oneday.run](https://roadmap.oneday.run/#/)
