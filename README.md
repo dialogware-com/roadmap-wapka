@@ -13,14 +13,14 @@
 
 1. Całość rozwiązań, ekosystem w roboczej nazwie wapka (web-aplikacja), oferta, informace, aktualizacje, szkolenia
 
-https://roadmap.wapka.pl/
+[Roadmap of wapka project - roadmap](https://roadmap.wapka.pl/)
 
 *nazwa globalna: https://roadmap.modula.dev
 
 
 2. Biblioteka do hipermodularyzacji stron/aplikacji www
 
-https://roadmap.webstream.dev/
+[docs.webstream.dev](https://roadmap.webstream.dev/#/)
 
 
 3. Marketplace z gotowcami bazujące na bibliotece webstream, wersja SaaS eksperymentalna polska
