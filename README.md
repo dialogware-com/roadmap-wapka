@@ -71,6 +71,12 @@ Ekosystem dla programistów szukających rozwiązania dla ich deploymentu
 
 ## Rozwiązania
 
+Całość rozwiązań, ekosystem w roboczej nazwie wapka (web-aplikacja), oferta, informace, aktualizacje, szkolenia
+
+[Roadmap of wapka project - roadmap.wapka.pl](https://roadmap.wapka.pl/)
+
+*nazwa globalna: https://roadmap.modula.dev
+
 Rozwiązania są skierowane na zwiększenie efektywności wszystkich klientów działajacych na rzecz:
 + definiowania rozwiązania poprzez zrozumienie problemów i idei
 + wdrażania projektów poprzez zapewnienie odpowiednio wykwalifikowanej kadry
@@ -79,23 +85,27 @@ Rozwiązania są skierowane na zwiększenie efektywności wszystkich klientów d
 + Rozwiazanie wapka, zmodularyzowane elementy, które pozostają fizycznie niezaleznie, daje to szansę szybszego rozwoju niż w przypadku monolitycznych scalonych rozwiązaniach zatracające cechy elastyczności.
 
 
-## Ekosystem
-
-Całość rozwiązań, ekosystem w roboczej nazwie wapka (web-aplikacja), oferta, informace, aktualizacje, szkolenia
-
-[Roadmap of wapka project - roadmap.wapka.pl](https://roadmap.wapka.pl/)
-
-*nazwa globalna: https://roadmap.modula.dev
 
 
-## Biblioteka
+### Biblioteka
 
 Biblioteka do hipermodularyzacji stron/aplikacji www
 
 [roadmap.webstream.dev](https://roadmap.webstream.dev/#/)
 
+### Pluginy 
+rozszerzenia do biblioteki na przeglądarke, wordpress
 
-## Marketplace
+
+### Providerzy
+
+Partnerzy oferujący usługi wynajmu infrastruktury+
++ hosting
++ vps
++ cloud
+
+
+### Marketplace
 
 Marketplace z gotowcami bazujące na bibliotece webstream, wersja SaaS eksperymentalna polska
 
@@ -104,14 +114,14 @@ Marketplace z gotowcami bazujące na bibliotece webstream, wersja SaaS eksperyme
 *wersja globalna: https://roadmap.mvps.dev/
 
 
-## SaaS - software house
+### SaaS - software house
 4. Usługa SaaS dla Software House, wersja globalna
 
 [roadmap.oneday.run](https://roadmap.oneday.run/#/)
 
 
 
-## SaaS - dla każdego
+### SaaS - dla każdego
 5. Usługa SaaS dla Kowalskich, wersja SaaS eksperymentalna polska
 
 [roadmap.prototypowanie.pl](https://roadmap.prototypowanie.pl/#/)
