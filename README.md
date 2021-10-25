@@ -1,4 +1,4 @@
-# Roadmap of wapka project
+# Roadmap of wapka ecosystem
 
 poniżej kilka  informacji o idei, twórcy i planów.
 
