@@ -55,29 +55,17 @@ Szukających rozwiązania dla narzędzi tymczasowych, które chcieliby używać 
 Ekosystem dla programistów szukających rozwiązania dla ich deploymentu
 
 
-w pierwszym etapie 
+## Rozwiązania
 
-+ www: wapka.pl
-  + blog informacyjny
-  + plan, roadmap
-  + zespół
-
-## [wapka.pl page](https://www.wapka.pl/)
-+ [logo wapka.pl page](https://logo.wapka.pl/)
-+ [docs wapka.pl page](https://docs.wapka.pl/)
-+ [roadmap wapka.pl page](https://roadmap.wapka.pl/)
-
-## TODO:
-
-+ blog about news in our ecosystem
-+ newsletter to know about news on application directory
-+ integration with foundation
-+ program partnerski dla programistów, aby im się opłacało używać to rozwiązanie
-+ program partnerski dla aktualnych klientów subscription.pl
+Rozwiązania są skierowane na zwiększenie efektywności wszystkich klientów działajacych na rzecz:
++ definiowania rozwiązania poprzez zrozumienie problemów i idei
++ wdrażania projektów poprzez zapewnienie odpowiednio wykwalifikowanej kadry
++ automatyzacji utrzymania poprzez najlepsze narzędzia
++ uniezależniania się od stron trzecich udostępniających cały ekosystem, bez możliwości wyboru, zmiany, migracji
++ Rozwiazanie wapka, zmodularyzowane elementy, które pozostają fizycznie niezaleznie, daje to szansę szybszego rozwoju niż w przypadku monolitycznych scalonych rozwiązaniach zatracające cechy elastyczności.
 
 
-
-# Ekosystem
+## Ekosystem
 
 Całość rozwiązań, ekosystem w roboczej nazwie wapka (web-aplikacja), oferta, informace, aktualizacje, szkolenia
 
@@ -86,14 +74,14 @@ Całość rozwiązań, ekosystem w roboczej nazwie wapka (web-aplikacja), oferta
 *nazwa globalna: https://roadmap.modula.dev
 
 
-# Biblioteka
+## Biblioteka
 
 Biblioteka do hipermodularyzacji stron/aplikacji www
 
 [roadmap.webstream.dev](https://roadmap.webstream.dev/#/)
 
 
-# Marketplace
+## Marketplace
 
 Marketplace z gotowcami bazujące na bibliotece webstream, wersja SaaS eksperymentalna polska
 
@@ -102,14 +90,14 @@ Marketplace z gotowcami bazujące na bibliotece webstream, wersja SaaS eksperyme
 *wersja globalna: https://roadmap.mvps.dev/
 
 
-# SaaS - software house
+## SaaS - software house
 4. Usługa SaaS dla Software House, wersja globalna
 
 [roadmap.oneday.run](https://roadmap.oneday.run/#/)
 
 
 
-# SaaS - dla każdego
+## SaaS - dla każdego
 5. Usługa SaaS dla Kowalskich, wersja SaaS eksperymentalna polska
 
 [roadmap.prototypowanie.pl](https://roadmap.prototypowanie.pl/#/)
@@ -117,7 +105,7 @@ Marketplace z gotowcami bazujące na bibliotece webstream, wersja SaaS eksperyme
 *wersja globalna: https://roadmap.webapks.com/
 
 
-# Kolejne projekty jak zostaną zrealziowane powyższe
+## Kolejne projekty jak zostaną zrealziowane powyższe
 
 
 Za pomocą usłgui deployment.pl możliwy jest szybki cykl uruchomienia i monitorowania aplikacji oparty o małe VPS, zarządzane przez ProMaGen.com
@@ -132,56 +120,23 @@ Plan na początek to infratstruktura z kilkudziesięcioma serwerami z dostępem 
   + server: vps z foundation
 
 
-## Dystrybucja webstream
+## Etapy
 
-poprzez usługi deploymentu, uruchamiania aplikacji:
+w pierwszym etapie 
 
-+ www: deployment.pl
-  + opisy dla programistow
-  + button: deployment.pl
++ www: wapka.pl
+  + blog informacyjny
+  + plan, roadmap
+  + zespół
 
+## TODO:
 
-## Budowanie społeczności opensource
++ blog about news in our ecosystem
++ newsletter to know about news on application directory
++ integration with foundation
++ program partnerski dla programistów, aby im się opłacało używać to rozwiązanie
++ program partnerski dla aktualnych klientów subscription.pl
 
-Promowanie autorów opensource 
-+ gitcast do promocji 
-  + programisci w systemie
-
-
-
-
-# Model Biznesowy
-
-## Rozwiązania
-
-Rozwiązania są skierowane na zwiększenie efektywności wszystkich klientów działajacych na rzecz:
-+ definiowania rozwiązania poprzez zrozumienie problemów i idei
-+ wdrażania projektów poprzez zapewnienie odpowiednio wykwalifikowanej kadry
-+ automatyzacji utrzymania poprzez najlepsze narzędzia
-+ uniezależniania się od stron trzecich udostępniających cały ekosystem, bez możliwości wyboru, zmiany, migracji
-+ Rozwiazanie wapka, zmodularyzowane elementy, które pozostają fizycznie niezaleznie, daje to szansę szybszego rozwoju niż w przypadku monolitycznych scalonych rozwiązaniach zatracające cechy elastyczności.
-
-
-## Wartości 
-
-### Dobrowolność
-Firma Softreck realizująca ten projekt skupia się na rozwiązaniu technologicznych problemaów w duchu dobrowolności
-"Lańcuch dostaw" usług eletronicznych to nie tylko sam deployment, dlatego istotna jest otwartośc tej platformy na
-udostępnianie usług w całym łańcuchu dostaw usług.
-
-### Personalizacja
-Ciągłe dostosowywanie usług w łańcuchu dostaw nie jest łatwe, jednak tworząc odpowiednie środowisko można znacznie przyśpieszyć tworzenie samych rozwiązań.  
-W Softreck nazywamy to Streamowaniem usług, interfejsów, aplikacji, danych. 
-
-### Kontrola
-W Naszym modelu biznesowym istotna jest kontrola kosztów i rozwoju projektu bezpośrednio przez klienta
-
-### Specjalizacja
-Dlatego liczne rozwiazania pozwalajace na skalowanie i szybki wzrost firmy jest opartu o rozwiązania wielu specjalistycznych firm uzupełniających nasze usługi.
-
-### Standaryzacja
-Tworząc ustandaryzowane kanały dostępu do usług i współpracy między nimi zapewniamy wiele korzyści dla każdej strony.
-W ten sposób możliwe jest tez znalezienie alternatywnego dostawcy i zapewnienie pełnego łancucha dostaw usług. 
 
 
 
@@ -191,11 +146,18 @@ W ten sposób możliwe jest tez znalezienie alternatywnego dostawcy i zapewnieni
   + możliwości kliknięcia deployment
   
 
-## More ...
+
+## [wapka.pl page](https://www.wapka.pl/)
++ [logo wapka.pl page](https://logo.wapka.pl/)
++ [docs wapka.pl page](https://docs.wapka.pl/)
++ [roadmap wapka.pl page](https://roadmap.wapka.pl/)
+
 + [Oferta, Model Biznesowy](https://roadmap.wapka.pl/)
 + [Technologie, Ekosystem](https://docs.wapka.pl/EKOSYSTEM.html)
 
 ## Softreck's OpenSource Deployment Ecosystem
++ [Softreck - Leadership Through Software Development](https://softreck.pl/)
++ [culture.softreck.dev](https://culture.softreck.dev/#/)
 + [Softreck’s OpenSource Deployment Ecosystem](https://docs.wapka.pl/)
 + [Softreck - Leadership Through Software Development](https://softreck.com/)
 + [Welcome to Portfolio of Softreck Company - softreck.dev](https://softreck.dev/)
