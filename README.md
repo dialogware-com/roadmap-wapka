@@ -1,24 +1,31 @@
 # Roadmap of wapka project
 
+poniżej kilka  informacji o idei, twórcy i planów.
 
-
-## [Softreck - Leadership Through Software Development](https://softreck.pl/)
+## Rozwiązanie na dekady
 
 Dla jednych drzwi do internetu otwierają wyszukiwarki, dla innych media społecznościowe. 
 W dobie IoT nie potrzebujemy ekranu i klawiatury, możemy po prostu mówić, rozmawiać jak z człowiekem.
 Technologie bazujące na sztucznej inteligencji pozwalają pominąć bezpośrednią interakcję na rzecz obserwacji i analizy zachowania.
 Komunikacja bez słów i gestów a jedynie wyciąganiu wniosków i reagowaniu stosownie do sytuacji i potrzeb użytkownika.
-W firmie Softreck budujemy rozwiązania na przyszłe dekady, dołącz do nas jako #programista, #inwestor, #ambasador
-Obecnie rozwijamy otwarty projekt Web Stream Dev do streamowania aplikacji przez www, w drodze są przygotowania do komercjalizacji prototypowania One Day Run
 
 ## Tom Sapletta, Software Deveoper
 
 Jako Software Deveoper z ponad 10 letnim stażem pracuję nad rozwiązaniami do optymalizacji procesu prototypowania.
-Doświadczenie podczas refaktoryzacji dały mi odpowiedź na to co najczęściej podelga zmianom i jak przygotwać kod aplikacji, aby nie był przemdiotem częstych zmian.
+Doświadczenie podczas refaktoryzacji dały mi odpowiedź na to co najczęściej podelga zmianom i jak przygotwać kod aplikacji, aby nie był przemdiotem częstych zmian. Na co dzień pracuję przy projektach jako DevOps oraz przeprowadzam prace badawcze w firmie Softreck nad efektywniejszym prototypowaniem aplikacji
+
+
+## [Softreck - Leadership Through Software Development](https://softreck.pl/)
+
+W firmie Softreck budujemy rozwiązania na przyszłe dekady, dołącz do nas jako #programista, #inwestor, #ambasador
+Obecnie rozwijamy otwarty projekt Web Stream Dev do streamowania aplikacji przez www, w drodze są przygotowania do komercjalizacji prototypowania One Day Run
+
+
+# Idea Webstream
 
 ## Pryncypia stojące za powstaniem Webstream
 
-Rezultatem jest kilka pryncypiów, którym warto być wiernym, aby uzyskać najlepszy efekt zaangażowanej energii i czasu do reużycia kodu.
+Droga do uzyskania najlepszy efekt zaangażowanej energii i czasu do reużycia kodu.
 Wnioski są następujące:
 
 1. Hipermodularyzacja, czyli używanie jak najmniejszych modułów kodu, ściśle dla określonego środowiska w natywnym jezyku
