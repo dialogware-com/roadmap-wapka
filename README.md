@@ -2,6 +2,8 @@
 
 
 
+## [Softreck - Leadership Through Software Development](https://softreck.pl/)
+
 Dla jednych drzwi do internetu otwierają wyszukiwarki, dla innych media społecznościowe. 
 W dobie IoT nie potrzebujemy ekranu i klawiatury, możemy po prostu mówić, rozmawiać jak z człowiekem.
 Technologie bazujące na sztucznej inteligencji pozwalają pominąć bezpośrednią interakcję na rzecz obserwacji i analizy zachowania.
@@ -9,8 +11,13 @@ Komunikacja bez słów i gestów a jedynie wyciąganiu wniosków i reagowaniu st
 W firmie Softreck budujemy rozwiązania na przyszłe dekady, dołącz do nas jako #programista, #inwestor, #ambasador
 Obecnie rozwijamy otwarty projekt Web Stream Dev do streamowania aplikacji przez www, w drodze są przygotowania do komercjalizacji prototypowania One Day Run
 
+## Tom Sapletta, Software Deveoper
+
 Jako Software Deveoper z ponad 10 letnim stażem pracuję nad rozwiązaniami do optymalizacji procesu prototypowania.
 Doświadczenie podczas refaktoryzacji dały mi odpowiedź na to co najczęściej podelga zmianom i jak przygotwać kod aplikacji, aby nie był przemdiotem częstych zmian.
+
+## Pryncypia stojące za powstaniem Webstream
+
 Rezultatem jest kilka pryncypiów, którym warto być wiernym, aby uzyskać najlepszy efekt zaangażowanej energii i czasu do reużycia kodu.
 Wnioski są następujące:
 
