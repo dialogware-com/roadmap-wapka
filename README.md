@@ -28,6 +28,11 @@ Na co dzień pracuję przy projektach jako DevOps oraz przeprowadzam prace badaw
 W firmie Softreck budujemy rozwiązania na przyszłe dekady, dołącz do nas jako #programista, #inwestor, #ambasador
 Obecnie rozwijamy otwarty projekt Web Stream Dev do streamowania aplikacji przez www, w drodze są przygotowania do komercjalizacji prototypowania One Day Run
 
+Leadership Through Software Development
++ [pro2030 | Softreck’s vision for 2030](https://softreck.github.io/pro2030/)
++ [pro2040 | Softreck’s vision for 2040](https://softreck.github.io/pro2040/)
++ [pro2050 | Softreck’s vision for 2050](https://softreck.github.io/pro2050/)
+
 ## Ekosystem Wapka z punktu widzenia programisty 
 
 Jako programista szukam rozwiązań w obszarze devops do jeszcze efektywniejszego zarządzania cyklami życia aplikacji.
