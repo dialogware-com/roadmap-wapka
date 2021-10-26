@@ -35,9 +35,11 @@ Obecnie rozwijamy otwarty projekt Web Stream Dev do streamowania aplikacji przez
 
 ### Co to jest?
 
-The Wapka is an OpenSource Deployment Ecosystem to meet both:
+Nasze ekosystem opiera się na integracjach z innymi systemami CMS, CRM, SaaS poprzez API.
+Toruje drogę do wykorzystania akatualnie istniejącej infrastruktury do maksymalnego wykorzystania zasobów, tworząc prototypowane narzedzia w szybki spoósb na poziomie wieddzy junior devlopera.
+W przysżłym roku kolejne rozwiązania, oparte o SaaS: OneDay.run oraz MVPS.dev pomogą w automatyzacji.
 
-This is win-win ecosystem: Programmer and Non-technical people have an opportunity to make a working business with our support on background
+The Wapka is an OpenSource Deployment Ecosystem to meet both: This is win-win ecosystem: Programmer and Non-technical people have an opportunity to make a working business with our support on background
 
 
 ## Do czego służy?
