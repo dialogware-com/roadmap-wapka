@@ -1,6 +1,13 @@
 # Roadmap of wapka ecosystem
 
-poniżej kilka  informacji o idei, twórcy i planów.
+
+Rozmawiając o poniższym ekosystemie warto omówić kontekst.
+Przedstawić kto za tym stoi oraz omówić potrzeby klientów jakie mają zostać zaspokojone.
+Poniżej omówione zostały:
++ idea i twórca
++ projekty
++ plany
+
 
 ## Rozwiązanie na dekady
 
@@ -12,7 +19,8 @@ Komunikacja bez słów i gestów a jedynie wyciąganiu wniosków i reagowaniu st
 ## Tom Sapletta, Software Deveoper
 
 Jako Software Deveoper z ponad 10 letnim stażem pracuję nad rozwiązaniami do optymalizacji procesu prototypowania.
-Doświadczenie podczas refaktoryzacji dały mi odpowiedź na to co najczęściej podelga zmianom i jak przygotwać kod aplikacji, aby nie był przemdiotem częstych zmian. Na co dzień pracuję przy projektach jako DevOps oraz przeprowadzam prace badawcze w firmie Softreck nad efektywniejszym prototypowaniem aplikacji
+Doświadczenie podczas refaktoryzacji dały mi odpowiedź na to co najczęściej podelga zmianom i jak przygotwać kod aplikacji, aby nie był przemdiotem częstych zmian. 
+Na co dzień pracuję przy projektach jako DevOps oraz przeprowadzam prace badawcze w firmie Softreck nad efektywniejszym prototypowaniem aplikacji
 
 
 ## [Softreck - Leadership Through Software Development](https://softreck.pl/)
@@ -20,17 +28,39 @@ Doświadczenie podczas refaktoryzacji dały mi odpowiedź na to co najczęściej
 W firmie Softreck budujemy rozwiązania na przyszłe dekady, dołącz do nas jako #programista, #inwestor, #ambasador
 Obecnie rozwijamy otwarty projekt Web Stream Dev do streamowania aplikacji przez www, w drodze są przygotowania do komercjalizacji prototypowania One Day Run
 
+## Ekosystem Wapka z punktu widzenia programisty 
 
-# Idea Webstream
+Jako programista szukam rozwiązań w obszarze devops do jeszcze efektywniejszego zarządzania cyklami życia aplikacji.
+Kierunek rozwoju Software Development-u jest jasny: 
 
-## Pryncypia stojące za powstaniem Webstream
+    automatyzacja oraz udział sztucznej inteligencji w zwiększaniu efektywności pracy
 
-+ [principles.webstream.dev](https://principles.webstream.dev/#/)
+Proces ten ma na celu:
+  + obniżenie kosztów 
+  + zwiększenie bezpieczeństwa i jakości wytwarzania
+  + szybszego skalowania i zarządzania.
+
+Rozwiązanie Wapka ma pomóc w stopniowym wyłączaniu udziału programisty w cyklach życia aplikacji do niezbędnego minimum, by
+programista mógł skupić się na wytwarzaniu wartości biznesowej oprogramowania a nie obsłudze klienta czy procesu obsługi samej aplikacji.
+W tym kontekście warto zauwazyć, że korzyści są bardziej zauważalne w specyficznych branżach, przemyśle, IoT, gdzie z jendej strony
+trzeba zwiększyć rentowność a z drugiej pozwolić na używanie natywnych technologii pozbawionych wielu warstw abstrakcji.
+
+# Obecne rozwiązania
+Obecnie mamy wiele chmur w tym OpenSource.
+
+## Wady
+Tradycyjne rozwiązania dedykowane do szerokiej grupy odbiorców z reguły skupiają się na utrzymaniu istniejących rozwiązań, przez co nie pozwalają na efektywne wsparcie prototypowanych rozwiązań.
+
+
+# Korzyści z Wapka
+Rozwiązanie Wapka, implementujące aPaaS w praktyce dla klientów końcowych, którzy
+mogą bezpośrednio kontaktować się z kompetentnym i odpowiedzialnym supportem za wybrane przez klienta dedykowane oprogramowanie.
+Może wpływać na jego rozwój, w ramach współracy z twórcami i zapewnieniu finansowania, które pochodzi z jego używania na platformie Wapka.
 
 
 # Ekosystem Wapka
 
-![logo wapka.pl](https://logo.wapka.pl/3/cover.png)
+![logo wapka.pl](https://logo.wapka.pl/3/default.png)
 
 
 ### Co to jest?
@@ -42,7 +72,7 @@ W przysżłym roku kolejne rozwiązania, oparte o SaaS: OneDay.run oraz MVPS.dev
 The Wapka is an OpenSource Deployment Ecosystem to meet both: This is win-win ecosystem: Programmer and Non-technical people have an opportunity to make a working business with our support on background
 
 
-## Do czego służy?
+### Do czego służy?
 
 Ekosystem technologiczny dla otwartego oprogramowania do uruchamiania aplikacji z otwartym kodem OpenSource na dowolnym serwerze/infrastrukturze
 
@@ -73,89 +103,6 @@ Rozwiązania są skierowane na zwiększenie efektywności wszystkich klientów d
 + uniezależniania się od stron trzecich udostępniających cały ekosystem, bez możliwości wyboru, zmiany, migracji
 + Rozwiazanie wapka, zmodularyzowane elementy, które pozostają fizycznie niezaleznie, daje to szansę szybszego rozwoju niż w przypadku monolitycznych scalonych rozwiązaniach zatracające cechy elastyczności.
 
-
-
-
-### Biblioteka
-
-Biblioteka do hipermodularyzacji stron/aplikacji www
-
-[roadmap.webstream.dev](https://roadmap.webstream.dev/#/)
-
-### Pluginy 
-rozszerzenia do biblioteki na przeglądarke, wordpress
-
-
-## Ułatwienia integracji poprzez prostą autoryzację
-
-+ www: subscription.pl
-  + oferta
-  + integracja oferty z ofertą/rozwiązaniami partnerów
-  + server: vps z foundation
-
-
-## Etapy
-
-w pierwszym etapie 
-
-+ www: wapka.pl
-  + blog informacyjny
-  + plan, roadmap
-  + zespół
-
-## TODO:
-
-+ blog about news in our ecosystem
-+ newsletter to know about news on application directory
-+ integration with foundation
-+ program partnerski dla programistów, aby im się opłacało używać to rozwiązanie
-+ program partnerski dla aktualnych klientów subscription.pl
-
-
-
-
-  
-+ www: application.pl
-  + lista aplikacji dodanych poprzez deployment
-  + możliwości kliknięcia deployment
-  
----
-
-## Projekty
-[Website about Webstreaming - WebStream.dev](https://www.webstream.dev/)
-
-## Początek
-Aby mówić o poniższym ekosystemie warto omówić kontekst.
-Przedstawić kto za tym stoi oraz omówić potrzeby klientów jakie mają zostać zaspokojone.
-
-### Tom Sapletta, founder Softreck.com, programista, inżynier devops, domainer
-
-Jako programista szukam rozwiązań w obszarze devops do jeszcze efektywniejszego zarządzania cyklami życia aplikacji.
-Kierunek rozwoju Software Development-u jest jasny: 
-
-    automatyzacja oraz udział sztucznej inteligencji w zwiększaniu efektywności pracy
-
-Proces ten ma na celu:
-  + obniżenie kosztów 
-  + zwiększenie bezpieczeństwa i jakości wytwarzania
-  + szybszego skalowania i zarządzania.
-
-Rozwiązanie Wapka ma pomóc w stopniowym wyłączaniu udziału programisty w cyklach życia aplikacji do niezbędnego minimum, by
-programista mógł skupić się na wytwarzaniu wartości biznesowej oprogramowania a nie obsłudze klienta czy procesu obsługi samej aplikacji.
-W tym kontekście warto zauwazyć, że korzyści są bardziej zauważalne w specyficznych branżach, przemyśle, IoT, gdzie z jendej strony
-trzeba zwiększyć rentowność a z drugiej pozwolić na używanie natywnych technologii pozbawionych wielu warstw abstrakcji.
-
-# Obecne rozwiązania
-Obecnie mamy wiele chmur w tym OpenSource.
-
-## Wady
-Tradycyjne rozwiązania dedykowane do szerokiej grupy odbiorców z reguły skupiają się na utrzymaniu istniejących rozwiązań, przez co nie pozwalają na efektywne wsparcie prototypowanych rozwiązań.
-
-
-# Korzyści z Wapka
-Rozwiązanie Wapka, implementujące aPaaS w praktyce dla klientów końcowych, którzy
-mogą bezpośrednio kontaktować się z kompetentnym i odpowiedzialnym supportem za wybrane przez klienta dedykowane oprogramowanie.
-Może wpływać na jego rozwój, w ramach współracy z twórcami i zapewnieniu finansowania, które pochodzi z jego używania na platformie Wapka.
 
 
 ## Efektywność wytwarzania
@@ -284,6 +231,49 @@ Marketplace z gotowcami bazujące na bibliotece webstream, wersja SaaS eksperyme
 
 Za pomocą usłgui deployment.pl możliwy jest szybki cykl uruchomienia i monitorowania aplikacji oparty o małe VPS, zarządzane przez ProMaGen.com
 Plan na początek to infratstruktura z kilkudziesięcioma serwerami z dostępem przez oAuth/... dla użytkowników z subscription.pl
+
+  
+### application.pl + deployment.pl
+  + lista aplikacji dodanych poprzez deployment
+  + możliwości kliknięcia deployment
+
+
+---
+
+### Biblioteka
+
+Idea Webstream
+
+#### Pryncypia stojące za powstaniem Webstream
+
++ [principles.webstream.dev](https://principles.webstream.dev/#/)
+
+
+Roadmap biblioteki do hipermodularyzacji stron/aplikacji www
+
++ [roadmap.webstream.dev](https://roadmap.webstream.dev/#/)
+
+
+### Pluginy 
+rozszerzenia do biblioteki na przeglądarke, wordpress
+
+
+## Ułatwienia integracji poprzez prostą autoryzację
+
++ www: subscription.pl
+  + oferta
+  + integracja oferty z ofertą/rozwiązaniami partnerów
+  + server: vps z foundation
+
+
+## TODO:
+
++ blog about news in our ecosystem
++ newsletter to know about news on application directory
++ integration with foundation
++ program partnerski dla programistów, aby im się opłacało używać to rozwiązanie
++ program partnerski dla aktualnych klientów subscription.pl
+
 
 
 
