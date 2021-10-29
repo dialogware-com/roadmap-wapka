@@ -16,7 +16,7 @@ W dobie IoT nie potrzebujemy ekranu i klawiatury, możemy po prostu mówić, roz
 Technologie bazujące na sztucznej inteligencji pozwalają pominąć bezpośrednią interakcję na rzecz obserwacji i analizy zachowania.
 Komunikacja bez słów i gestów a jedynie wyciąganiu wniosków i reagowaniu stosownie do sytuacji i potrzeb użytkownika.
 
-## Tom Sapletta, Software Deveoper
+## Tom Sapletta, DevOps
 
 Jako Software Deveoper z ponad 10 letnim stażem pracuję nad rozwiązaniami do optymalizacji procesu prototypowania.
 Doświadczenie podczas refaktoryzacji dały mi odpowiedź na to co najczęściej podelga zmianom i jak przygotwać kod aplikacji, aby nie był przemdiotem częstych zmian. 
