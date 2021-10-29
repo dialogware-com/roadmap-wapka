@@ -85,12 +85,24 @@ Ekosystem technologiczny dla otwartego oprogramowania do uruchamiania aplikacji 
 ### Dla kogo?
 
 Ekosystem dla 2 grup użytkowników:
-+ programistów chcących udostępnić swój projekt do szerszego wykorzystania w jak najkrótszym czasie (MVP)
-+ użytkowników chcących używać otwartego oprogramowania bez udziału programistów czy adminstartorów a jednoczenie:
-+ mieć dostep online do obsługi technicznej w celu ułatwienia korzystania z ekosystemu jak i przy rozwiązywaniu codziennych problemów
+
+#### sofwtare developerzy
+
+programistów chcących udostępnić swój projekt do szerszego wykorzystania w jak najkrótszym czasie (MVP)
+Ekosystem dla programistów szukających rozwiązania dla ich deploymentu
+
+#### wdrożeniowcy
+
+nie mający wystarczającej wiedzy do swobodnego użycia biblioteki webstream ale mający kontakt z programistami
+
+
+#### inni
+
+Użytkownicy chcący używać otwarte oprogramowanie w modelu SaaS
+bez udziału programistów czy adminstartorów a jednoczenie, aby mieć dostep online do obsługi technicznej ekosystemu jak i przy rozwiązywaniu codziennych problemów
 
 Szukających rozwiązania dla narzędzi tymczasowych, które chcieliby używać bez udziału programistów
-Ekosystem dla programistów szukających rozwiązania dla ich deploymentu
+
 
 
 ## Rozwiązania
@@ -115,54 +127,77 @@ Rozwiązania są skierowane na zwiększenie efektywności wszystkich klientów d
 
 
 ## Lepszy model biznesowy*
+    #jakość
 *poprzez większą ilość iteracji w tym samym budżecie
 Stworzenie efektywnego modelu biznesowy wymaga czasu w skład którego wchodzi czas na prototypowanie i testowanie rozwiązania.
 Skrócenie cyklu pozwala na wykonanie większej ilości cykli w tym samym czasie
 
 
 ### Szybsze uzyskanie efektu końcowego
+    #czas
 z punktu widzenia klienta końcowego to przede wszystkim oszczędność czasu i obniżenie kosztów operacyjnych oraz
 możliwość szybszej ekspansji na rynku poprzez oferowanie konkurencyjnej ceny usług.
 
 
 ### Mniej kosztowne prototypowanie
+    #koszt
 Jako programista często mam do czynienia z prototypowaniem i doceniam każdą technologię, która pomaga w szybszym dotarciu do sensownego rozwiązania.
 Klient końcowy otrzymuje w szybszym czasie to czego oczekiwał przez co również koszty wytwarzania są niższe. 
 
 
 ### Koszty aplikacji internetowej www
+    #estymacja
 Każdy projekt istniejący w internecie potrzebuje:
 + domeny internetowej, która jest zarazem brand-em usługi / cyfrowego produktu
 + serwera, który musi zapewnić dostęp do usług realizowanych przez aplikację w zmiennych warunkach obciążenia przez klientów
 + obsługi technicznej do zapewnienia bezpieczeństwa oraz wprowadzania zmian, takich jak nowe funkcjonalności czy tłumaczenia, pomoc przy konfiguracji  
+
+
+# Start-up
+
++ integracja usług 
++ agregacja operatorów
++ łatwiejsze zarządzanie i rozliczanie
++ wsparcie techniczne i szkolenia dla personelu z rozliczaniem na godziny
+
+## Integrujacja usług
 
 Koszty utrzymania takiej aplikacji są dzielone na 3 grupy usługodawców:
 + provider infrastruktury domena, serwer, chmura
 + usługi firm trzecich zapewniające skalowalność, odporność na duże obciążenia, bezpieczeństwo
 + usługi informatyczne i programistyczne, rozliczane na godziny/umowy (zlecenia / o dzieło). 
 
-## Korzyści dla Klienta biznesowego
-+ integracja usług 
-+ agregacja operatorów
-+ łatwiejsze zarządzanie i rozliczanie
-+ wsparcie techniczne i szkolenia dla personelu z rozliczaniem na godziny
+## Zarządzanie i rozliczanie
 
-Wapka integruje i oblicza koszty w zależności od użycia.
+OneDay.Run pozwala na koordynację działań i monitoring kosztów na bieżaco zalezny od użycia.
++ Miesięczne rozliczenie
 Klient otrzymuje raz na miesiąc rachunek za wszystkie koszty
++ Pomoc online
 Pomoc techniczna jest dostępna w zależności od opcji w godzinach pracy lub całodobowo.
++ delegowanie zadań
 Klient nie musi logować się do panelu domenowego czy hostingowego, obsługa techniczna robi to w jego imieniu.
 
-## Korzyści dla Programisty
-+ auto-deployment
-+ wapka zapewnia wsparcie techniczne dla klientów, można więcej czasu poświęcić na swoftware development
-+ gotowa infrastruktura
-+ szkolenia ze strony wapka
-+ strategia API-first (APIfoundation)
+
+# Software Developer
 
 Programista rozwijający otwarte oprogramowanie często poza programowaniem nie ma czasu, by samemu obsłużyć klientów i tym samym zarabiać na swoim oprogramowaniu.
 W odróżnieniu od oprogramowania licencyjnego programista opensource może pozwolić sobie na dowolność, ale z reguły rozwiązanie jest zbyt specyficzne by było popularne.
 
-### Deployment
+## Korzyści dla Programisty
+
++ wapka ekosystem zapewnia wsparcie techniczne dla klientów, można więcej czasu poświęcić na swoftware development
++ szkolenia ze strony wapka
++ gotowa infrastruktura
++ auto-deployment
++ strategia API-first (APIfoundation)
++ nanofrontend
++ nanoservice
+
+## Outsourcing Devops
+
++ Ci/CD 
++ Auto-Deployment
+
 Inny programista może poświęcając czas pozwolić sobie na uruchomienie i przetestowanie takiej aplikacji,
 ale to też wymaga czasu i zasobów.
 Obecnie mamy sporo rozwiązań do deployment-u, 
@@ -170,8 +205,19 @@ wiele projektów jest zgodnych z różnymi platformami
 i często przy zastosowaniu docker'a łatwo jest je uruchomić na własnym komputerze.
 
 ### aPaaS
+
 Docker nie jest rozwiązaniem dedykowanym do produkcyjnych systemów z uwagi na bezpieczeństwo.
 Tutaj z pomocą przychodzą rozwiązania korzystającego ze specyfikacji zawartej w dockerze, które pozwalają na tej podstawie przygotowąć odpowiednie środowisko do uruchamiania oprogramowania.
+
+
+# Usługodawcy
+
+
+Partnerzy oferujący usługi wynajmu infrastruktury+
++ hosting
++ vps
++ cloud
+
 
 ## Korzyści dla Provider'a
 Mając na uwadze dużą konkurencję na rynku i np. dumping-owe ceny z rynku niemieckiego.
@@ -182,32 +228,26 @@ Uważam, że to dobry czas, by każdy operator rozważył delegowanie część s
 zmniejszając udział człowieka w procesie utrzymania usług z uwagi na przygotowane i rpzetestowane środowisko i deydkowane oprogramowania, specyficzne dla danej branży i klienta.
 
 
+## Korzyści dla specjalistów
 
-## Korzyści dla ...
-
-### dla specjalistów
 poszukujących pracy na godziny (hourly.pl) razem z wapka możemy dostarczać Wasze usługi potrzebującym klientom wsparcia od zaraz, wiec koszty są odpoweidnio wyższe i zarobek jest również atrakcyjny
 
-### dla firm 
+## Korzyści dla start-up-ów 
+
 wypełniających niszę, szukających specyficznych klientów, poprzez subscription.pl Wy będziecie dzielić się swoimi usługami a My naszymi klientami, którzy będą zainteresowani
 
-### dla rynku
+## Korzyści dla klientów
+
 gdyż wszystkie usługi są profilowane a przez to wyższej jakości niż w przypadku poszukiwania aktualnie "wolnego" specjalisty czy wypromowanej ale niezbyt dobrze dopasowanej usługi
 
-## Projekty
+## Projekty w ekosystemie wapka
+
 + [projects.wapka.pl](http://projects.wapka.pl)
 
 
 
-### Providerzy
 
-Partnerzy oferujący usługi wynajmu infrastruktury+
-+ hosting
-+ vps
-+ cloud
-
-
-### Marketplace
+# Marketplace
 
 Marketplace z gotowcami bazujące na bibliotece webstream, wersja SaaS eksperymentalna polska
 
@@ -216,14 +256,14 @@ Marketplace z gotowcami bazujące na bibliotece webstream, wersja SaaS eksperyme
 *wersja globalna: https://roadmap.mvps.dev/
 
 
-### SaaS - software house
+## SaaS - software house
 4. Usługa SaaS dla Software House, wersja globalna
 
 [roadmap.oneday.run](https://roadmap.oneday.run/#/)
 
 
 
-### SaaS - dla każdego
+## SaaS - dla każdego
 5. Usługa SaaS dla Kowalskich, wersja SaaS eksperymentalna polska
 
 [roadmap.prototypowanie.pl](https://roadmap.prototypowanie.pl/#/)
