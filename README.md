@@ -40,7 +40,9 @@ Leadership Through Software Development
 
 ## Wapka ecosystem
 Opensource tools for rapid web apps development (PoC/Prototype/MVP)
- 
+Solution for software houses, for rapid web apps development to bring the ideas live in hours and days.
+It's about hyper modularized web apps
+
 ## Ekosystem Wapka z punktu widzenia programisty 
 
 Jako programista szukam rozwiązań w obszarze devops do jeszcze efektywniejszego zarządzania cyklami życia aplikacji.
