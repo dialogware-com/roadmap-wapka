@@ -33,6 +33,14 @@ Leadership Through Software Development
 + [pro2040 - Softreck’s vision for 2040](https://softreck.github.io/pro2040/)
 + [pro2050 - Softreck’s vision for 2050](https://pro2050.com/)
 
+
+
+![logo wapka.pl](https://logo.wapka.pl/3/default.png)
+
+
+## Wapka ecosystem
+Opensource tools for rapid web apps development (PoC/Prototype/MVP)
+ 
 ## Ekosystem Wapka z punktu widzenia programisty 
 
 Jako programista szukam rozwiązań w obszarze devops do jeszcze efektywniejszego zarządzania cyklami życia aplikacji.
@@ -50,22 +58,27 @@ programista mógł skupić się na wytwarzaniu wartości biznesowej oprogramowan
 W tym kontekście warto zauwazyć, że korzyści są bardziej zauważalne w specyficznych branżach, przemyśle, IoT, gdzie z jendej strony
 trzeba zwiększyć rentowność a z drugiej pozwolić na używanie natywnych technologii pozbawionych wielu warstw abstrakcji.
 
+
 # Obecne rozwiązania
-Obecnie mamy wiele chmur w tym OpenSource.
+Obecne rozwiązania operiają się na kontakcie z klientem w sposób zaplanowany na tygodnie współpracy przy dostarczeniu aplikacji.
++ usłogdawcy software house
++ 
+Są dostępne gotowe rzowiązania SaaS pozwalające na tworzenie makiet
+ewentualnie są rozwiązania pozwalające na tworzenie całych plaikacji jednak wymagają wiedzy programistycznej.
++ MIT App
 
 ## Wady
-Tradycyjne rozwiązania dedykowane do szerokiej grupy odbiorców z reguły skupiają się na utrzymaniu istniejących rozwiązań, przez co nie pozwalają na efektywne wsparcie prototypowanych rozwiązań.
+
+Tradycyjne rozwiązania są dedykowane ale niewyspecjalizowane, kierowanie do szerokiej grupy odbiorców nie pozwala na specjalizację i automatyzację.
+Skupiając się na kontakcie z klientem warto rozważyć automatyzację, jednak całościowo w tej chwili nie jest to popoulanr epodejście.
+Przez co obecnea oferta na rynku nie jest efektywna przy szybkim wsparciu prototypowania aplikacji internetowych.
 
 
 # Korzyści z Wapka
+
 Rozwiązanie Wapka, implementujące aPaaS w praktyce dla klientów końcowych, którzy
 mogą bezpośrednio kontaktować się z kompetentnym i odpowiedzialnym supportem za wybrane przez klienta dedykowane oprogramowanie.
 Może wpływać na jego rozwój, w ramach współracy z twórcami i zapewnieniu finansowania, które pochodzi z jego używania na platformie Wapka.
-
-
-# Ekosystem Wapka
-
-![logo wapka.pl](https://logo.wapka.pl/3/default.png)
 
 
 ### Co to jest?
