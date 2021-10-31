@@ -61,6 +61,7 @@ Rozwiązania są skierowane na zwiększenie efektywności wszystkich klientów d
 + uniezależniania się od stron trzecich udostępniających cały ekosystem, bez możliwości wyboru, zmiany, migracji
 + Rozwiazanie wapka, zmodularyzowane elementy, które pozostają fizycznie niezaleznie, daje to szansę szybszego rozwoju niż w przypadku monolitycznych scalonych rozwiązaniach zatracające cechy elastyczności.
  
+ 
 ## Ekosystem Wapka z punktu widzenia programisty 
 
 Jako programista szukam rozwiązań w obszarze DevOps do jeszcze efektywniejszego zarządzania cyklami życia aplikacji.
@@ -131,6 +132,12 @@ Let us make your website dynamic by integrating it with other webtools. Integrat
 + Marketing Platforms
 + Social Media
 + Communities    
+
+
+
+###  Web Monetization
+
+Z pomocą Web Monetization API będziemy w stanie zarabiać pieniądze bezpośrednio i natychmiastowo - bez poświęcania wrażliwych danych użytkowników, i na dobre pozbyć się reklam. Najlepsze jest to, że nowe API już teraz działa w przeglądarce!
 
 
 
