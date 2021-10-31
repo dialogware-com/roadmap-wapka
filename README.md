@@ -38,14 +38,32 @@ Leadership Through Software Development
 ![logo wapka.pl](https://logo.wapka.pl/3/default.png)
 
 
-## Wapka ecosystem
+## Solutions for 2030 are comming with Wapka ecosystem
+
 Opensource tools for rapid web apps development (PoC/Prototype/MVP)
 Solution for software houses, for rapid web apps development to bring the ideas live in hours and days.
-It's about hyper modularized web apps
 
+
+# Rozwiązania
+
+
+Całość rozwiązań, ekosystem w roboczej nazwie wapka (web-aplikacja), oferta, informace, aktualizacje, szkolenia
+
+[Roadmap of wapka project - roadmap.wapka.pl](https://roadmap.wapka.pl/)
+
+*nazwa globalna: https://roadmap.modula.dev
+
+
+Rozwiązania są skierowane na zwiększenie efektywności wszystkich klientów działajacych na rzecz:
++ definiowania rozwiązania poprzez zrozumienie problemów i idei
++ wdrażania projektów poprzez zapewnienie odpowiednio wykwalifikowanej kadry
++ automatyzacji utrzymania poprzez najlepsze narzędzia
++ uniezależniania się od stron trzecich udostępniających cały ekosystem, bez możliwości wyboru, zmiany, migracji
++ Rozwiazanie wapka, zmodularyzowane elementy, które pozostają fizycznie niezaleznie, daje to szansę szybszego rozwoju niż w przypadku monolitycznych scalonych rozwiązaniach zatracające cechy elastyczności.
+ 
 ## Ekosystem Wapka z punktu widzenia programisty 
 
-Jako programista szukam rozwiązań w obszarze devops do jeszcze efektywniejszego zarządzania cyklami życia aplikacji.
+Jako programista szukam rozwiązań w obszarze DevOps do jeszcze efektywniejszego zarządzania cyklami życia aplikacji.
 Kierunek rozwoju Software Development-u jest jasny: 
 
     automatyzacja oraz udział sztucznej inteligencji w zwiększaniu efektywności pracy
@@ -61,10 +79,68 @@ W tym kontekście warto zauwazyć, że korzyści są bardziej zauważalne w spec
 trzeba zwiększyć rentowność a z drugiej pozwolić na używanie natywnych technologii pozbawionych wielu warstw abstrakcji.
 
 
+
+## [Web Stream](https://www.webstream.dev/)
+
+Streaming application/interface directly on frontend, without building backend side is part of [wapka ecosystem](https://docs.wapka.pl/) to build Application b
+based on PaaS infrastructure as Aplication Platform as a Service or (APaaS) Function as a Service (FaaS)
+
+
++ Hyper Modularized web apps - build faster from reusable code bricks
++ Application as a Stream - AaaS
++ Only native javascript for long term support - no more legacy code
++ json based communication - clean and fast
+
+
+ 
+## Web Components
+
+
+## Web Development
+
+We have a solid team of developers who are widely experienced with different builders and platforms. Whether you need someone who knows WordPress like the back of his hand, or someone who can dive deep into bootstrap, our team has got you covered.
+
++ Sales Pages
++ Landing Pages
++ Websites
++ Webaplication
++ Forms and polls
+
+## Web Management
+
+We make sure that your website is up and running 24/7, and have experts needed to get you back up the soonest time possible when it isn't. We look after your whole website's performance to make sure your website is performing at its best.
+
++ Uptime Monitoring
++ Hosting Management
++ E-mail Management
+
+
+## Web Security
+
+We protect your online assets as soon as your websites land on hands. By protecting your website, we protect your business, your users and your data.
+
++ Maintenance
++ Hack Prevention
+
+## Web Integration
+
+Let us make your website dynamic by integrating it with other webtools. Integration with 3rd party allows your to take advantage of their offerend advantages to make your website dynamic and efficient.
+
++ API
++ CRM
++ Marketing Platforms
++ Social Media
++ Communities    
+
+
+
+
 # Obecne rozwiązania
+
 Obecne rozwiązania operiają się na kontakcie z klientem w sposób zaplanowany na tygodnie współpracy przy dostarczeniu aplikacji.
 + usłogdawcy software house
-+ 
+
+
 Są dostępne gotowe rzowiązania SaaS pozwalające na tworzenie makiet
 ewentualnie są rozwiązania pozwalające na tworzenie całych plaikacji jednak wymagają wiedzy programistycznej.
 + MIT App
@@ -76,6 +152,7 @@ Skupiając się na kontakcie z klientem warto rozważyć automatyzację, jednak 
 Przez co obecnea oferta na rynku nie jest efektywna przy szybkim wsparciu prototypowania aplikacji internetowych.
 
 
+
 # Korzyści z Wapka
 
 Rozwiązanie Wapka, implementujące aPaaS w praktyce dla klientów końcowych, którzy
@@ -83,7 +160,7 @@ mogą bezpośrednio kontaktować się z kompetentnym i odpowiedzialnym supportem
 Może wpływać na jego rozwój, w ramach współracy z twórcami i zapewnieniu finansowania, które pochodzi z jego używania na platformie Wapka.
 
 
-### Co to jest?
+## Co to jest?
 
 Nasze ekosystem opiera się na integracjach z innymi systemami CMS, CRM, SaaS poprzez API.
 Toruje drogę do wykorzystania akatualnie istniejącej infrastruktury do maksymalnego wykorzystania zasobów, tworząc prototypowane narzedzia w szybki spoósb na poziomie wieddzy junior devlopera.
@@ -92,53 +169,49 @@ W przysżłym roku kolejne rozwiązania, oparte o SaaS: OneDay.run oraz MVPS.dev
 The Wapka is an OpenSource Deployment Ecosystem to meet both: This is win-win ecosystem: Programmer and Non-technical people have an opportunity to make a working business with our support on background
 
 
-### Do czego służy?
+## Do czego służy?
 
 Ekosystem technologiczny dla otwartego oprogramowania do uruchamiania aplikacji z otwartym kodem OpenSource na dowolnym serwerze/infrastrukturze
 
 
-### Dla kogo?
+## Dla kogo?
 
-Ekosystem dla 2 grup użytkowników:
+Ekosystem Wapka to oferta dla 3 ról użytkowników:
 
-#### sofwtare developerzy
+
+
+### Wdrożeniowcy, Koordynatorzy
+
+nie mający wystarczającej wiedzy do swobodnego użycia biblioteki webstream ale mający kontakt z programistami, potrzebujący
+szybkiego narzędzia z możliwością monitorowania postępów, dobrą komunikacją pomiędzy klientem, programistami, marketingiem, itd
+
+
+### Programiści - software developers
 
 programistów chcących udostępnić swój projekt do szerszego wykorzystania w jak najkrótszym czasie (MVP)
 Ekosystem dla programistów szukających rozwiązania dla ich deploymentu
 
-#### wdrożeniowcy
 
-nie mający wystarczającej wiedzy do swobodnego użycia biblioteki webstream ale mający kontakt z programistami
-
-
-#### inni
+### Pasjonaci, Eksperymentatorzy
 
 Użytkownicy chcący używać otwarte oprogramowanie w modelu SaaS
 bez udziału programistów czy adminstartorów a jednoczenie, aby mieć dostep online do obsługi technicznej ekosystemu jak i przy rozwiązywaniu codziennych problemów
 
-Szukających rozwiązania dla narzędzi tymczasowych, które chcieliby używać bez udziału programistów
+Szukających rozwiązania dla narzędzi tymczasowych, które chcieliby używać bez udziału programistów z gootywhc modułów, ewentualnie zlecić pojedyncze poprawki
+ale móc wytworzyć oprogramowanie zgodne z wytycznymi klienta do demonstracji w formie prototypu makiety
 
 
 
-## Rozwiązania
 
-Całość rozwiązań, ekosystem w roboczej nazwie wapka (web-aplikacja), oferta, informace, aktualizacje, szkolenia
+# Oferta Software House
 
-[Roadmap of wapka project - roadmap.wapka.pl](https://roadmap.wapka.pl/)
 
-*nazwa globalna: https://roadmap.modula.dev
-
-Rozwiązania są skierowane na zwiększenie efektywności wszystkich klientów działajacych na rzecz:
-+ definiowania rozwiązania poprzez zrozumienie problemów i idei
-+ wdrażania projektów poprzez zapewnienie odpowiednio wykwalifikowanej kadry
-+ automatyzacji utrzymania poprzez najlepsze narzędzia
-+ uniezależniania się od stron trzecich udostępniających cały ekosystem, bez możliwości wyboru, zmiany, migracji
-+ Rozwiazanie wapka, zmodularyzowane elementy, które pozostają fizycznie niezaleznie, daje to szansę szybszego rozwoju niż w przypadku monolitycznych scalonych rozwiązaniach zatracające cechy elastyczności.
-
++ łatwiejsze zarządzanie i rozliczanie
++ wsparcie techniczne i szkolenia dla personelu z rozliczaniem na godziny
 
 
 ## Efektywność wytwarzania
-[Definicja - znaczenie optymizacji](https://optymizacja.github.io/www/)
++ [Definicja - znaczenie optymizacji](https://optymizacja.github.io/www/)
 
 
 ## Lepszy model biznesowy*
@@ -168,7 +241,8 @@ Każdy projekt istniejący w internecie potrzebuje:
 + obsługi technicznej do zapewnienia bezpieczeństwa oraz wprowadzania zmian, takich jak nowe funkcjonalności czy tłumaczenia, pomoc przy konfiguracji  
 
 
-# Start-up
+
+# Oferta Start-up
 
 + integracja usług 
 + agregacja operatorów
@@ -193,7 +267,8 @@ Pomoc techniczna jest dostępna w zależności od opcji w godzinach pracy lub ca
 Klient nie musi logować się do panelu domenowego czy hostingowego, obsługa techniczna robi to w jego imieniu.
 
 
-# Software Developer
+
+# Oferta Software Developer
 
 Programista rozwijający otwarte oprogramowanie często poza programowaniem nie ma czasu, by samemu obsłużyć klientów i tym samym zarabiać na swoim oprogramowaniu.
 W odróżnieniu od oprogramowania licencyjnego programista opensource może pozwolić sobie na dowolność, ale z reguły rozwiązanie jest zbyt specyficzne by było popularne.
