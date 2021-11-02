@@ -256,7 +256,7 @@ Każdy projekt istniejący w internecie potrzebuje:
 + łatwiejsze zarządzanie i rozliczanie
 + wsparcie techniczne i szkolenia dla personelu z rozliczaniem na godziny
 
-## Integrujacja usług
+## Integracja usług
 
 Koszty utrzymania takiej aplikacji są dzielone na 3 grupy usługodawców:
 + provider infrastruktury domena, serwer, chmura
