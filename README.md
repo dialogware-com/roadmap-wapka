@@ -368,7 +368,7 @@ Marketplace z gotowcami bazujące na bibliotece webstream, wersja SaaS eksperyme
 *wersja globalna: https://roadmap.webapks.com/
 
 
-## Kolejne projekty jak zostaną zrealziowane powyższe
+## Kolejne projekty do wdrożenia ( gdy zostaną zrealzowane powyższe )
 
 
 Za pomocą usłgui deployment.pl możliwy jest szybki cykl uruchomienia i monitorowania aplikacji oparty o małe VPS, zarządzane przez ProMaGen.com
