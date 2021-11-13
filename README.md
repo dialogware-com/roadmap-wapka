@@ -30,7 +30,7 @@ Obecnie rozwijamy otwarty projekt Web Stream Dev do streamowania aplikacji przez
 
 Leadership Through Software Development
 + [pro2030 - Softreck’s vision for 2030](https://pro2030.com/)
-+ [pro2040 - Softreck’s vision for 2040](https://softreck.github.io/pro2040/)
++ [p2040 - Softreck’s vision for 2040](https://p2040.com/)
 + [pro2050 - Softreck’s vision for 2050](https://pro2050.com/)
 
 
